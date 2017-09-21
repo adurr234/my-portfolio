@@ -11,3 +11,21 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+Javascript
+ReactJS
+Babel
+Webpack
+NPM
+Jest
+Chai
+Mocha
+
+### AWS Services Used
+Cloudfront
+S3
+Route 53
+CodeBuild
+CodePipeline
+Lambda
+IAM
+SNS
