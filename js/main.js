@@ -14,7 +14,7 @@ const myWork = [
     }
   },
   {
-    'title': "A Serverless Webpage",
+    'title': "This Serverless Webpage",
     'href': "https://github.com/adurr234/my-portfolio",
     'desc': "A Serveless website utilizing AWS and ReactJS",
     'image': {
@@ -25,8 +25,8 @@ const myWork = [
   },
   {
     'title': "Work Example",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://github.com/adurr234/Serverless-web",
+    'desc': "A simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.",
     'image': {
       'desc': "example screenshot",
       'src': "images/example3.png",
