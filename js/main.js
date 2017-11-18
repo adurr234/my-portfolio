@@ -9,7 +9,7 @@ const myWork = [
     'desc': "A chatbot using multiple AWS services. It can tell you more information about it's creation or about Chuck Norris",
     'image': {
       'desc': "A Chatbot",
-      'src': "images/chatbot.png",
+      'src': "images/Chatbot.png",
       'comment': ""
     }
   },
@@ -24,9 +24,9 @@ const myWork = [
     }
   },
   {
-    'title': "Work Example",
-    'href': "https://github.com/adurr234/Serverless-web",
-    'desc': "A simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.",
+    'title': "Chef Cookbooks",
+    'href': "https://github.com/adurr234/chef-fluency-badge",
+    'desc': "A collection of Chef resources and cookbooks.",
     'image': {
       'desc': "example screenshot",
       'src': "images/example3.png",
